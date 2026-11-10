@@ -1,18 +1,18 @@
-# Fortaleza · Temperatura
+# Fortaleza Temperatura
 
-Next.js, React e TypeScript. Mapa SVG dos 121 bairros oficiais, com temperatura estimada pelo Open-Meteo. Interação por mouse, toque e teclado.
+Mapa interativo dos 121 bairros de Fortaleza com temperaturas estimadas pelo [Open-Meteo](https://open-meteo.com/). Feito com Next.js, React e TypeScript.
+
+## Executar
+
+Requer Node.js 20.9 ou superior e npm.
 
 ```sh
-npm install
+npm ci
 npm run dev
 ```
 
-Abra http://localhost:3000. Para verificar: `npm test` e `npm run build`.
+Abra http://localhost:3000. Para testar: `npm test`. Para gerar o site estático em `out/`: `npm run build`.
 
-Os limites oficiais estão incluídos no projeto. `node scripts/prepare-map.mjs` regenera os caminhos SVG e escolhe um ponto interno por bairro.
+Inclui um [coletor horário em Rust](collector/README.md) e um [painel local em Iced/WebAssembly](dashboard-wasm/README.md) para acompanhar o histórico.
 
-A página consulta a API em quatro lotes, mantém cache local por uma hora e atualiza enquanto estiver aberta. Sem banco ou coleta em segundo plano. As cotas são contadas por localização e multiplicam pelo número de navegadores. Para muitos usuários, migrar a coleta para servidor com cache compartilhado.
-
-Dados estimados, não sensores em cada bairro; bairros próximos podem compartilhar a mesma célula do modelo. Uso gratuito do Open-Meteo restrito a projetos não comerciais. Para uso comercial, contratar o serviço e proteger a chave num servidor.
-
-Fontes: https://open-meteo.com/ e https://mapas.fortaleza.ce.gov.br/mapa/21/bairros-de-fortaleza (IPLANFOR).
+Os dados são estimativas de modelo, não medições de sensores em cada bairro. O uso gratuito do Open-Meteo é destinado a projetos não comerciais. Limites dos bairros: [IPLANFOR](https://mapas.fortaleza.ce.gov.br/mapa/21/bairros-de-fortaleza).

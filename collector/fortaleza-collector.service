@@ -1,0 +1,14 @@
+[Unit]
+Description=Temperatura dos 121 bairros de Fortaleza a cada hora
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+ExecStart=%h/.local/bin/fortaleza-collector --output %h/Projetos/fortaleza-temperatura/collector/logs
+Restart=on-failure
+RestartSec=300
+UMask=0077
+NoNewPrivileges=true
+
+[Install]
+WantedBy=default.target

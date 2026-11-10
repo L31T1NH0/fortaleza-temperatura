@@ -2,3 +2,10 @@ node_modules/
 .next/
 out/
 *.tsbuildinfo
+collector/target/
+collector/logs/
+dashboard-wasm/target/
+dashboard-wasm/generated/
+repomix-output.*
+.env*
+!.env.example

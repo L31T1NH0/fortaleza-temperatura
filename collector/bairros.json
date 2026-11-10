@@ -1,0 +1,728 @@
+[
+  {
+    "id": "91",
+    "name": "Aerolândia",
+    "latitude": -3.7760997200000004,
+    "longitude": -38.513563430000005
+  },
+  {
+    "id": "92",
+    "name": "Aeroporto",
+    "latitude": -3.7842243730000003,
+    "longitude": -38.52908121
+  },
+  {
+    "id": "2",
+    "name": "Aldeota",
+    "latitude": -3.73749756,
+    "longitude": -38.502401590000005
+  },
+  {
+    "id": "93",
+    "name": "Alto da Balança",
+    "latitude": -3.76502544,
+    "longitude": -38.51255272
+  },
+  {
+    "id": "3",
+    "name": "Álvaro Weyne",
+    "latitude": -3.7159806050000004,
+    "longitude": -38.56662129
+  },
+  {
+    "id": "4",
+    "name": "Amadeu Furtado",
+    "latitude": -3.744748115,
+    "longitude": -38.559289140000004
+  },
+  {
+    "id": "50",
+    "name": "Ancuri",
+    "latitude": -3.8637687300000003,
+    "longitude": -38.507892964999996
+  },
+  {
+    "id": "40",
+    "name": "Antônio Bezerra",
+    "latitude": -3.740165175,
+    "longitude": -38.5926469
+  },
+  {
+    "id": "124",
+    "name": "Aracapé",
+    "latitude": -3.8294570849999996,
+    "longitude": -38.58802752
+  },
+  {
+    "id": "41",
+    "name": "Autran Nunes",
+    "latitude": -3.754491645,
+    "longitude": -38.59544626
+  },
+  {
+    "id": "6",
+    "name": "Barra do Ceará",
+    "latitude": -3.70368576,
+    "longitude": -38.580206065
+  },
+  {
+    "id": "51",
+    "name": "Barroso",
+    "latitude": -3.82113127,
+    "longitude": -38.515049085
+  },
+  {
+    "id": "94",
+    "name": "Bela Vista",
+    "latitude": -3.7520647900000004,
+    "longitude": -38.560366294999994
+  },
+  {
+    "id": "7",
+    "name": "Benfica",
+    "latitude": -3.741823835,
+    "longitude": -38.538653895
+  },
+  {
+    "id": "125",
+    "name": "Boa Vista / Castelão",
+    "latitude": -3.7992817,
+    "longitude": -38.522232825
+  },
+  {
+    "id": "8",
+    "name": "Bom Futuro",
+    "latitude": -3.757908955,
+    "longitude": -38.546331120000005
+  },
+  {
+    "id": "72",
+    "name": "Bom Jardim",
+    "latitude": -3.795661475,
+    "longitude": -38.601622145
+  },
+  {
+    "id": "73",
+    "name": "Bonsucesso",
+    "latitude": -3.782875405,
+    "longitude": -38.58625563
+  },
+  {
+    "id": "110",
+    "name": "Cais do Porto",
+    "latitude": -3.712086815,
+    "longitude": -38.471856224999996
+  },
+  {
+    "id": "52",
+    "name": "Cajazeiras",
+    "latitude": -3.80040726,
+    "longitude": -38.50672733
+  },
+  {
+    "id": "53",
+    "name": "Cambeba",
+    "latitude": -3.8067914849999998,
+    "longitude": -38.486510929999994
+  },
+  {
+    "id": "74",
+    "name": "Canindezinho",
+    "latitude": -3.810871995,
+    "longitude": -38.603700035
+  },
+  {
+    "id": "9",
+    "name": "Carlito Pamplona",
+    "latitude": -3.717088355,
+    "longitude": -38.55395086
+  },
+  {
+    "id": "10",
+    "name": "Centro",
+    "latitude": -3.727157505,
+    "longitude": -38.527174535
+  },
+  {
+    "id": "111",
+    "name": "Cidade 2000",
+    "latitude": -3.7511561899999997,
+    "longitude": -38.471855829999996
+  },
+  {
+    "id": "54",
+    "name": "Cidade dos Funcionários",
+    "latitude": -3.7941710950000003,
+    "longitude": -38.49957705
+  },
+  {
+    "id": "55",
+    "name": "Coaçu",
+    "latitude": -3.845135785,
+    "longitude": -38.47715658
+  },
+  {
+    "id": "11",
+    "name": "Cocó",
+    "latitude": -3.75121968,
+    "longitude": -38.48031297
+  },
+  {
+    "id": "42",
+    "name": "Conjunto Ceará I",
+    "latitude": -3.76417104,
+    "longitude": -38.605710145
+  },
+  {
+    "id": "75",
+    "name": "Conjunto Ceará II",
+    "latitude": -3.770236835,
+    "longitude": -38.609451809999996
+  },
+  {
+    "id": "76",
+    "name": "Conjunto Esperança",
+    "latitude": -3.814428695,
+    "longitude": -38.591140464999995
+  },
+  {
+    "id": "118",
+    "name": "Conjunto Palmeiras",
+    "latitude": -3.848501195,
+    "longitude": -38.52994228
+  },
+  {
+    "id": "96",
+    "name": "Couto Fernandes",
+    "latitude": -3.76034063,
+    "longitude": -38.560246795
+  },
+  {
+    "id": "12",
+    "name": "Cristo Redentor",
+    "latitude": -3.705952415,
+    "longitude": -38.564766184999996
+  },
+  {
+    "id": "56",
+    "name": "Curió",
+    "latitude": -3.822827845,
+    "longitude": -38.477521415
+  },
+  {
+    "id": "13",
+    "name": "Damas",
+    "latitude": -3.752034685,
+    "longitude": -38.548559929999996
+  },
+  {
+    "id": "115",
+    "name": "De Lourdes",
+    "latitude": -3.7408503,
+    "longitude": -38.462585045
+  },
+  {
+    "id": "97",
+    "name": "Demócrito Rocha",
+    "latitude": -3.76186171,
+    "longitude": -38.56532176
+  },
+  {
+    "id": "98",
+    "name": "Dias Macedo",
+    "latitude": -3.788423785,
+    "longitude": -38.52213557
+  },
+  {
+    "id": "14",
+    "name": "Dionísio Torres",
+    "latitude": -3.74749294,
+    "longitude": -38.50224219
+  },
+  {
+    "id": "43",
+    "name": "Dom Lustosa",
+    "latitude": -3.752313535,
+    "longitude": -38.58816469
+  },
+  {
+    "id": "57",
+    "name": "Edson Queiroz",
+    "latitude": -3.77593203,
+    "longitude": -38.460832945
+  },
+  {
+    "id": "38",
+    "name": "Ellery",
+    "latitude": -3.723274655,
+    "longitude": -38.563423115
+  },
+  {
+    "id": "58",
+    "name": "Engenheiro Luciano Cavalcante",
+    "latitude": -3.7765563049999997,
+    "longitude": -38.491302340000004
+  },
+  {
+    "id": "15",
+    "name": "Farias Brito",
+    "latitude": -3.73242036,
+    "longitude": -38.542622945
+  },
+  {
+    "id": "16",
+    "name": "Fátima",
+    "latitude": -3.751389245,
+    "longitude": -38.52835006
+  },
+  {
+    "id": "17",
+    "name": "Floresta",
+    "latitude": -3.7203671949999997,
+    "longitude": -38.575412115
+  },
+  {
+    "id": "44",
+    "name": "Genibaú",
+    "latitude": -3.75755233,
+    "longitude": -38.602884849999995
+  },
+  {
+    "id": "78",
+    "name": "Granja Lisboa",
+    "latitude": -3.78720734,
+    "longitude": -38.62070314
+  },
+  {
+    "id": "79",
+    "name": "Granja Portugal",
+    "latitude": -3.78155205,
+    "longitude": -38.60000941
+  },
+  {
+    "id": "59",
+    "name": "Guajeru",
+    "latitude": -3.832363815,
+    "longitude": -38.479609749999995
+  },
+  {
+    "id": "60",
+    "name": "Guararapes",
+    "latitude": -3.763421045,
+    "longitude": -38.489203724999996
+  },
+  {
+    "id": "45",
+    "name": "Henrique Jorge",
+    "latitude": -3.761832735,
+    "longitude": -38.58645477
+  },
+  {
+    "id": "99",
+    "name": "Itaoca",
+    "latitude": -3.77257539,
+    "longitude": -38.55637629
+  },
+  {
+    "id": "100",
+    "name": "Itaperi",
+    "latitude": -3.7885686400000003,
+    "longitude": -38.549086315
+  },
+  {
+    "id": "18",
+    "name": "Jacarecanga",
+    "latitude": -3.7197664450000003,
+    "longitude": -38.545389535
+  },
+  {
+    "id": "61",
+    "name": "Jangurussu",
+    "latitude": -3.846262535,
+    "longitude": -38.51531552
+  },
+  {
+    "id": "19",
+    "name": "Jardim América",
+    "latitude": -3.752567545,
+    "longitude": -38.542020539999996
+  },
+  {
+    "id": "80",
+    "name": "Jardim Cearense",
+    "latitude": -3.80075527,
+    "longitude": -38.56609823
+  },
+  {
+    "id": "62",
+    "name": "Jardim das Oliveiras",
+    "latitude": -3.7804512050000003,
+    "longitude": -38.50329279
+  },
+  {
+    "id": "20",
+    "name": "Jardim Guanabara",
+    "latitude": -3.7239606050000003,
+    "longitude": -38.590273804999995
+  },
+  {
+    "id": "21",
+    "name": "Jardim Iracema",
+    "latitude": -3.723079565,
+    "longitude": -38.583633825
+  },
+  {
+    "id": "46",
+    "name": "João XXIII",
+    "latitude": -3.7700444500000003,
+    "longitude": -38.587335780000004
+  },
+  {
+    "id": "22",
+    "name": "Joaquim Távora",
+    "latitude": -3.7452217,
+    "longitude": -38.51638869
+  },
+  {
+    "id": "101",
+    "name": "Jóquei Clube",
+    "latitude": -3.76739259,
+    "longitude": -38.574209620000005
+  },
+  {
+    "id": "23",
+    "name": "José Bonifácio",
+    "latitude": -3.738884015,
+    "longitude": -38.528489215
+  },
+  {
+    "id": "49",
+    "name": "José de Alencar",
+    "latitude": -3.8105986649999997,
+    "longitude": -38.47231858
+  },
+  {
+    "id": "63",
+    "name": "Lagoa Redonda",
+    "latitude": -3.825582605,
+    "longitude": -38.46074767
+  },
+  {
+    "id": "81",
+    "name": "Manoel Sátiro",
+    "latitude": -3.79778086,
+    "longitude": -38.581426735
+  },
+  {
+    "id": "112",
+    "name": "Manuel Dias Branco",
+    "latitude": -3.760564415,
+    "longitude": -38.457573569999994
+  },
+  {
+    "id": "82",
+    "name": "Maraponga",
+    "latitude": -3.8062640994,
+    "longitude": -38.5734054924
+  },
+  {
+    "id": "24",
+    "name": "Meireles",
+    "latitude": -3.72766072,
+    "longitude": -38.501238125
+  },
+  {
+    "id": "65",
+    "name": "Messejana",
+    "latitude": -3.82681444,
+    "longitude": -38.493030355
+  },
+  {
+    "id": "83",
+    "name": "Mondubim",
+    "latitude": -3.8172043,
+    "longitude": -38.57087495
+  },
+  {
+    "id": "25",
+    "name": "Monte Castelo",
+    "latitude": -3.72489222,
+    "longitude": -38.553393150000005
+  },
+  {
+    "id": "103",
+    "name": "Montese",
+    "latitude": -3.763974015,
+    "longitude": -38.550264240000004
+  },
+  {
+    "id": "5",
+    "name": "Moura Brasil",
+    "latitude": -3.7181647399999997,
+    "longitude": -38.534478545
+  },
+  {
+    "id": "26",
+    "name": "Mucuripe",
+    "latitude": -3.7259609,
+    "longitude": -38.484472894999996
+  },
+  {
+    "id": "121",
+    "name": "Novo Mondubim",
+    "latitude": -3.8080515249999998,
+    "longitude": -38.585104595000004
+  },
+  {
+    "id": "122",
+    "name": "Olavo Oliveira",
+    "latitude": -3.7300858850000003,
+    "longitude": -38.590375195
+  },
+  {
+    "id": "47",
+    "name": "Padre Andrade",
+    "latitude": -3.736384695,
+    "longitude": -38.579353915
+  },
+  {
+    "id": "104",
+    "name": "Panamericano",
+    "latitude": -3.75570898,
+    "longitude": -38.564630539999996
+  },
+  {
+    "id": "27",
+    "name": "Papicu",
+    "latitude": -3.739989825,
+    "longitude": -38.47547198
+  },
+  {
+    "id": "105",
+    "name": "Parangaba",
+    "latitude": -3.7777990299999997,
+    "longitude": -38.56547143
+  },
+  {
+    "id": "28",
+    "name": "Parque Araxá",
+    "latitude": -3.7352835200000003,
+    "longitude": -38.54826972
+  },
+  {
+    "id": "84",
+    "name": "Parque Dois Irmãos",
+    "latitude": -3.8087720650000003,
+    "longitude": -38.547651235000004
+  },
+  {
+    "id": "66",
+    "name": "Parque Iracema",
+    "latitude": -3.80642419,
+    "longitude": -38.4961876
+  },
+  {
+    "id": "67",
+    "name": "Parque Manibura",
+    "latitude": -3.79151902,
+    "longitude": -38.4861375
+  },
+  {
+    "id": "85",
+    "name": "Parque Presidente Vargas",
+    "latitude": -3.8253719349999997,
+    "longitude": -38.59988424
+  },
+  {
+    "id": "123",
+    "name": "Parque Santa Maria",
+    "latitude": -3.8497047699999998,
+    "longitude": -38.500433905
+  },
+  {
+    "id": "87",
+    "name": "Parque Santa Rosa",
+    "latitude": -3.82013959,
+    "longitude": -38.59454604
+  },
+  {
+    "id": "86",
+    "name": "Parque São José",
+    "latitude": -3.79667291,
+    "longitude": -38.58751192
+  },
+  {
+    "id": "29",
+    "name": "Parquelândia",
+    "latitude": -3.737253855,
+    "longitude": -38.558865095
+  },
+  {
+    "id": "30",
+    "name": "Parreão",
+    "latitude": -3.758576135,
+    "longitude": -38.537452665
+  },
+  {
+    "id": "88",
+    "name": "Passaré",
+    "latitude": -3.81232518,
+    "longitude": -38.530361745
+  },
+  {
+    "id": "68",
+    "name": "Paupina",
+    "latitude": -3.887657116,
+    "longitude": -38.5015008726
+  },
+  {
+    "id": "69",
+    "name": "Pedras",
+    "latitude": -3.87960703,
+    "longitude": -38.514844964999995
+  },
+  {
+    "id": "106",
+    "name": "Pici",
+    "latitude": -3.74891374,
+    "longitude": -38.57486777
+  },
+  {
+    "id": "31",
+    "name": "Pirambu",
+    "latitude": -3.709381335,
+    "longitude": -38.55288072
+  },
+  {
+    "id": "116",
+    "name": "Planalto Ayrton Senna",
+    "latitude": -3.83312297,
+    "longitude": -38.572465980000004
+  },
+  {
+    "id": "32",
+    "name": "Praia de Iracema",
+    "latitude": -3.718758115,
+    "longitude": -38.51540344
+  },
+  {
+    "id": "113",
+    "name": "Praia do Futuro I",
+    "latitude": -3.739959895,
+    "longitude": -38.455943605
+  },
+  {
+    "id": "114",
+    "name": "Praia do Futuro II",
+    "latitude": -3.763815705,
+    "longitude": -38.445416495
+  },
+  {
+    "id": "89",
+    "name": "Prefeito José Walter",
+    "latitude": -3.837217665,
+    "longitude": -38.546952114999996
+  },
+  {
+    "id": "33",
+    "name": "Presidente Kennedy",
+    "latitude": -3.729236955,
+    "longitude": -38.570686115
+  },
+  {
+    "id": "48",
+    "name": "Quintino Cunha",
+    "latitude": -3.7409255901,
+    "longitude": -38.601118786
+  },
+  {
+    "id": "77",
+    "name": "Rachel de Queiroz",
+    "latitude": -3.798733605,
+    "longitude": -38.556567435000005
+  },
+  {
+    "id": "34",
+    "name": "Rodolfo Teófilo",
+    "latitude": -3.746147295,
+    "longitude": -38.551291469999995
+  },
+  {
+    "id": "70",
+    "name": "Sabiaguaba",
+    "latitude": -3.80236959,
+    "longitude": -38.42672836
+  },
+  {
+    "id": "71",
+    "name": "Salinas",
+    "latitude": -3.7639045749999998,
+    "longitude": -38.500062334999996
+  },
+  {
+    "id": "119",
+    "name": "São Bento",
+    "latitude": -3.8644229696999997,
+    "longitude": -38.4866688281
+  },
+  {
+    "id": "1",
+    "name": "São Gerardo",
+    "latitude": -3.730292025,
+    "longitude": -38.55681769500001
+  },
+  {
+    "id": "64",
+    "name": "Sapiranga / Coité",
+    "latitude": -3.79770418,
+    "longitude": -38.4659543
+  },
+  {
+    "id": "107",
+    "name": "Serrinha",
+    "latitude": -3.78395262,
+    "longitude": -38.540926174999996
+  },
+  {
+    "id": "90",
+    "name": "Siqueira",
+    "latitude": -3.8074225950000002,
+    "longitude": -38.62011556
+  },
+  {
+    "id": "35",
+    "name": "Tauape",
+    "latitude": -3.755998585,
+    "longitude": -38.505363105
+  },
+  {
+    "id": "36",
+    "name": "Varjota",
+    "latitude": -3.7344930300000003,
+    "longitude": -38.485320720000004
+  },
+  {
+    "id": "37",
+    "name": "Vicente Pinzón",
+    "latitude": -3.72763467,
+    "longitude": -38.469534835000005
+  },
+  {
+    "id": "108",
+    "name": "Vila Peri",
+    "latitude": -3.788542525,
+    "longitude": -38.580755855
+  },
+  {
+    "id": "109",
+    "name": "Vila União",
+    "latitude": -3.766777825,
+    "longitude": -38.53588988
+  },
+  {
+    "id": "39",
+    "name": "Vila Velha",
+    "latitude": -3.713244885,
+    "longitude": -38.604834624999995
+  }
+]

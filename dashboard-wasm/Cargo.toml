@@ -1,0 +1,27 @@
+[package]
+name = "fortaleza-panel"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+chrono = { version = "0.4", default-features = false, features = ["std"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+[target.'cfg(target_arch = "wasm32")'.dependencies]
+iced = { version = "=0.14.0", default-features = false, features = ["wgpu-bare", "webgl", "canvas", "fira-sans", "basic-shaping"] }
+wasm-bindgen = "=0.2.130"
+gloo-net = "0.6"
+gloo-timers = { version = "0.3", features = ["futures"] }
+console_error_panic_hook = "0.1"
+
+[profile.release]
+opt-level = 1
+lto = false
+strip = true
+
+[profile.release.package.fortaleza-panel]
+strip = "debuginfo"

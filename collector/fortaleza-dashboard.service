@@ -1,0 +1,13 @@
+[Unit]
+Description=Painel Rust e Iced WebAssembly de temperaturas de Fortaleza
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+ExecStart=%h/.local/bin/fortaleza-dashboard --logs %h/Projetos/fortaleza-temperatura/collector/logs
+Restart=on-failure
+RestartSec=10
+NoNewPrivileges=true
+
+[Install]
+WantedBy=default.target
